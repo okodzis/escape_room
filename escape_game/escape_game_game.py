@@ -1,6 +1,7 @@
 import PySimpleGUI as sg
 from escape_game_layouts import Layouts
 
+
 class Game:
     def __init__(self):
         self.levels = [
